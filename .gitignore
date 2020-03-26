@@ -35,5 +35,13 @@
 .vscode
 .vscode/*
 
+# vs
+.vs
+.vs/*
+Debug
+Debug/*
+*/Debug
+*/Debug/*
+
 # 可执行文件
 main
